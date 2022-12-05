@@ -5,7 +5,7 @@ Return the sorted string. If there are multiple answers, return any of them.
  
 
 Example 1:
-
+        
 Input: s = "tree"
 Output: "eert"
 Explanation: 'e' appears twice while 'r' and 't' both appear once.
